@@ -1,0 +1,14 @@
+README.md
+setup.py
+exif_extractor/__init__.py
+exif_extractor/cli.py
+exif_extractor/extractor.py
+exif_extractor/gps.py
+exif_extractor/reporter.py
+exif_extractor.egg-info/PKG-INFO
+exif_extractor.egg-info/SOURCES.txt
+exif_extractor.egg-info/dependency_links.txt
+exif_extractor.egg-info/entry_points.txt
+exif_extractor.egg-info/requires.txt
+exif_extractor.egg-info/top_level.txt
+tests/test_extrator.py

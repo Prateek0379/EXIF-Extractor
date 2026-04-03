@@ -1,0 +1,2 @@
+[console_scripts]
+exif-extract = exif_extractor.cli:cli
